@@ -318,7 +318,7 @@ Utilise **HandBrake-CLI**.
 
 ![CLI23](https://github.com/VanlindtMarc/CLI-Node-Editor/blob/main/README/CLI23.png)
 
-Le BPM Counter ne comprend que **WAV** et **MP3**. On convertit donc d'abord en MP3, on calcule le BPM, puis selon le format final on inscrit le tag (FFmpeg pour MP3, **metaflac** pour FLAC car FFmpeg gère mal les tags FLAC).
+Le **BPM Counter** ne comprend que **WAV** et **MP3**. On convertit donc d'abord en **MP3**, on calcule le **BPM**, puis selon le format final on inscrit le tag (**FFmpeg** pour **MP3**, **metaflac** pour **FLAC** car **FFmpeg** gère mal les tags **FLAC**).
 
 ## 🥁 Calcul du BPM v2 (avec Merge)
 
@@ -423,14 +423,13 @@ En version compilée, ces fichiers se trouvent **à côté de l'exécutable**.
 
 # 🚀 Roadmap
 
-- 🖱️ Clic droit sur un nœud ➜ remplacement direct par un autre.
 - 🧾 Encart de remarque dans les scripts générés contenant le flux source — pour pouvoir **réimporter** un workflow depuis un script déjà généré.
-- 🔗 Colonne **URL** pour le gestionnaire d'outils.
+~~- 🔗 Colonne **URL** pour le gestionnaire d'outils.~~
 - ⬇️ Téléchargement automatique des outils manquants.
 - ✅ Exécuter les tests d'outils uniquement sur ceux qui ont un `version_arg` défini.
 - 🔁 Remplacer un flux par un autre s'ils ont le même nombre de ports d'E/S.
 - 📦 Import / export d'un nœud unique.
-- 🖼️ Export du flux en **PNG** (fond transparent) et en **SVG**.
+~~- 🖼️ Export du flux en **PNG** (fond transparent) et en **SVG**.~~
 
 ---
 
