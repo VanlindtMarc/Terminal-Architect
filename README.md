@@ -304,6 +304,10 @@ Utilise **ffmpeg**, **ImageMagick**, **sox** et des **scripts Python persos**.
 5. Chaque audio reçoit un écho différent.
 6. Reconstruit deux images à partir des spectrogrammes (résolution d'origine + résolution demandée).
 
+## 🎵 Image modifiée par traitement audio (esthétique TV analogique) 2
+
+![I2S2I](https://github.com/VanlindtMarc/Terminal-Architect/blob/main/README/ImageToSpectreToImageFinal2.svg)
+
 ## 🎬 ISO/Remux ➜ MKV
 
 ![CLI17](https://github.com/VanlindtMarc/CLI-Node-Editor/blob/main/README/CLI17.png)
