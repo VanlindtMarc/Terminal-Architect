@@ -98,7 +98,7 @@ L'interface se divise en **trois colonnes** :
 - ⏹️ **Stop** pour interrompre.
 - 📟 **Console d'exécution** : sortie standard fusionnée du process en cours, avec nœuds animés en temps réel.
 
-![Interface](https://github.com/VanlindtMarc/be/blob/main/README/CLI02.png)
+![Interface](https://github.com/VanlindtMarc/be/blob/main/README/CLI01.png)
 
 ---
 
